@@ -1,0 +1,32 @@
+@media screen and (max-width: 650px) {
+   .ContactDetailsNav{
+    display: none;
+   }
+}
+.secoundaryNavli:hover {
+    background-color: rgb(247, 247, 247);
+    box-shadow: 12px 12px 12px rgb(226, 226, 226);
+    border-radius: 33px;
+    transition: 0.5s;
+    transform: translateY(4px);
+}
+
+.orange{
+    color: rgb(255, 102, 0);
+}
+.oneM{
+    margin-top: 45px !important;
+}
+.footerLogo{
+    height: 110px;
+    width: 150px;
+}
+.mariGold{
+    color: rgb( 234, 162, 33) ;
+}
+
+@media screen and (min-width: 850px) {
+    #pfoe{
+        width: 300px;
+    }
+}
