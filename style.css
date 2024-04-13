@@ -24,6 +24,10 @@
 .mariGold{
     color: rgb( 234, 162, 33) ;
 }
+#mailID{
+    text-decoration: none;
+    color: white;
+}
 
 @media screen and (min-width: 850px) {
     #pfoe{
