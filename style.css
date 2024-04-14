@@ -28,6 +28,21 @@
     text-decoration: none;
     color: white;
 }
+#mailIDONE{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.bg-blue{
+    background-color: rgb(67, 154, 253);
+}
+.forBigPara:hover{
+    color: black;
+    transform: translateY(4px);
+    transition: all 3s ease-in-out;
+    box-shadow:2px 5px 12px black !important;
+}
+
+
 
 @media screen and (min-width: 850px) {
     #pfoe{
